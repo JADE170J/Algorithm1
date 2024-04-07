@@ -1,0 +1,29 @@
+1. Initialize variables:
+
+- sentenceLength = 0
+
+- wordCount = 0
+
+- vowelCount = 0
+
+
+2. Read the input sentence character by character until the point is encountered:We should therefore consider implementing a non-carbon emission policy to encourage citizens and institutions to make a more informed decision for the well-being of our environment. Read the input sentence character by character until the point is encountered:Read the input sentence character by character until the point is encountered:
+
+a. As soon as my main character finishes the story, I will be creating a new one.
+
+b. The sentence length based entity tagging algorithm is another algorithm belonging to the first category.
+
+c. If the character is not a space:We will organize a fluvial clean-up event, such as kayaking or canoeing along the riverbed, to remove waste and debris before they present an environmental risk. If the character is not a space:If the character is not a space:
+
+- BackspaceCount the number of Space characters or the number of characters space forward.
+
+- If the item (A, E, I, O, U and the appropriate uppercase ones for the given string) belongs to the group of vowels the cladeCount needs to be increased.
+
+
+3. Output the results:
+
+- Print sentenceLength.
+
+- Print wordCount+1 # This statement means the last word stored in the variable wordcount should be added to one.
+
+- Print vowelCount.
